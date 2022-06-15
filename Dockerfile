@@ -1,5 +1,4 @@
 #Example of DockerFile
-
 FROM centos:7
 LABEL description="deploy webserver through Docker"
 MAINTAINER devopsadmin
